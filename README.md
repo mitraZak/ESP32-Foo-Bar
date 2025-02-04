@@ -34,7 +34,7 @@ apart.
 - You may receive many numbers, do the sequences in the order you received
 them. If you receive more than 8 numbers while doing a sequence, you should
 ignore the 9th and output “Buffer is full”.
-# You may assume that a valid value for i is given, ``` i < 2^{24} ```, and your program runs on a
+# You may assume that a valid value for i is given, i < 2^{24}, and your program runs on a
 standard ESP32-S3 chip.
 - Foo-Bar is a variation of the classic Fizz-Buzz test given in coding interviews; the basic
 functionality is easy to achieve, but a robust solution with good modularity and accurate
